@@ -1,0 +1,27 @@
+body {
+	background-color: #97B3D2;
+}
+
+.topstyle{
+	margin-top: 50px;
+	color: white;
+	font-family: 'Roboto Mono', monospace; 
+	text-decoration: underline;
+}
+
+.homestyle{
+	color: white;
+	margin-top: 350px;
+	font-family: 'Roboto Mono', monospace;
+	text-align: center;
+}
+
+.contentstyle{
+	color: white;
+	margin-top: 50px;
+	font-family: 'Roboto Mono', monospace;
+}
+.contentstyle2{
+	color: white;
+	font-family: 'Roboto Mono', monospace;
+
